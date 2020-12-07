@@ -12,6 +12,7 @@ The app runs by default on port 5000 (the default Flask port, this can be change
 
 ## Deliverables achieved
 * The app does not use Django
+* It performs all authorization related tasks mentioned [here](https://docs.google.com/document/d/18R0RWXAwuxntEPyY7ovZyMCNl4QWWPCtLV6eMLn1kuU/edit)
 * It uses a relational database system to store registered users
 * It has forms for both logging in and registration
 * It runs in a Docker container
