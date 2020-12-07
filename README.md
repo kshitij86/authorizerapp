@@ -9,3 +9,10 @@
 3. Go to `http://localhost:5000` in a browser to access the app
 
 The app runs by default on port 5000 (the default Flask port, this can be changed in app.py) and binds to localhost `app.run(host='0.0.0.0', ...)`.
+
+## Deliverables achieved
+* The app does not use Django
+* It uses a relational database system to store registered users
+* It has forms for both logging in and registration
+* It runs in a Docker container
+* Stores passwords in encrypted format using `flask_bcrypt`
